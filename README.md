@@ -29,7 +29,7 @@ Sentiment Analysis Project/
 
 ## 🛠️ Features
 
-- Trained on custom labeled text data
+- Trained on custom labeled IMDB Sentiment Analysis Data
 - Text preprocessing (tokenization, padding)
 - Deep learning (Embedding + RNN)
 - Real-time predictions via Streamlit UI
@@ -83,24 +83,13 @@ numpy
 streamlit
 ```
 
-*(Add more based on your environment or specific use case.)*
-
----
-
 ## 📚 Acknowledgements
 
 - TensorFlow / Keras for model building
 - Streamlit for the web UI
-- Your own labeled dataset (or IMDb, Twitter, etc.)
+- IMDb for labeled dataset
 
 ---
-
-## 📃 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ✨ Author
 
 **Hariom Nagar**  
